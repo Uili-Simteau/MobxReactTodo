@@ -2,7 +2,7 @@
   "name": "react-mobx-todos",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "start": "webpack-dev-server --content-base src --inline --hot"
   },
